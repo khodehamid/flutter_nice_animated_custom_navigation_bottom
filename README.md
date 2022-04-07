@@ -1,6 +1,6 @@
 # custom_bottom_nav
 
-a Custom Flutter Button Navigation.
+a Custom Flutter Bottom Navigation.
 
 ## Getting Started
 
